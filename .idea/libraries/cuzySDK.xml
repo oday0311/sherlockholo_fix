@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cuzySDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../cuzySDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
